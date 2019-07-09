@@ -1,5 +1,5 @@
 # XIQCAMERA - WPF aplikácia
-Tento repozitár obsahuje vytvorenie WPF aplikácie za pomoci technológií:
+Tento repozitár obsahuje vytvorenie WPF aplikácie na ovládanie Ximea kamery za pomoci technológií:
 
     a. C#,
     b. WPF
