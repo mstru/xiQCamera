@@ -16,10 +16,10 @@ Tento repozitár obsahuje vytvorenie WPF aplikácie na ovládanie Ximea kamery p
     2. Nastavenie základných parametrov (Exposure, FPS, Gain) cez rozhranie API,
     3. Zistenie aktuálnej možnej povolenej hodnoty a jej zobrazenie (Exposure, FPS, Gain),
     4. Sledovanie výkonu (Performance): 
-	a. Update - rýchlosť zmeny nastavení cez API [ms] 
-	b. Aquisition - rýchlosť snímkovania [ms]
-	c. Write - zápis na disk [ms]
-	d. Total - celkový čas [ms]
+	* a. Update - rýchlosť zmeny nastavení cez API [ms] 
+	* b. Aquisition - rýchlosť snímkovania [ms]
+	* c. Write - zápis na disk [ms]
+	* d. Total - celkový čas [ms]
     5. Počítadlo snímkov (Images)
 	
 ![Alt text](/xiQCamera/screen1.jpg?raw=true "Optional Title")
