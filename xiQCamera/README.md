@@ -26,4 +26,4 @@ Tento repozitár obsahuje vytvorenie WPF aplikácie za pomoci technológií:
 
     1. Grid - zobrazenie vytvorených snímkov a automatický refresh grid-u	
 	    
-![Alt text](/XIQCAMERA.jpg?raw=true "Optional Title")
+![Alt text](/xiQCamera/XIQCAMERA.jpg?raw=true "Optional Title")
