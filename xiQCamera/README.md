@@ -7,7 +7,7 @@ Tento repozitár obsahuje vytvorenie WPF aplikácie na ovládanie Ximea kamery p
 
 ### XIQCAMERA aplikácia umožňuje:
 
-- Záložka Camera:
+#Záložka Camera:
 
    1. Inicializáciu inteligetnej Ximea kamery tlačidlo CONNECT,
    2. Spustenie a zastavenie snímkovania (akvizície) tlačidlo START/STOP,
@@ -24,7 +24,7 @@ Tento repozitár obsahuje vytvorenie WPF aplikácie na ovládanie Ximea kamery p
 	
 ![Alt text](/xiQCamera/screen1.jpg?raw=true "Optional Title")
 
-- Záložka Images:
+#Záložka Images:
 
    1. Zobrazenie vytvorených snímkov v gride, 
    2. Sortovanie podľa času vytvorenia,
